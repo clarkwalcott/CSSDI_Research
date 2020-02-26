@@ -1,4 +1,4 @@
-# Classroom Interaction System Supporting Distributed Instruction (CISSDI):
+# Research for Classroom Interaction System Supporting Distributed Instruction (CISSDI) with Dale Musser:
 *Hybrid course. Online and in class.*
 
 ## Current Situation:
