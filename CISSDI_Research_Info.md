@@ -12,7 +12,7 @@
 - You want to stay at home, do that.
 - You want to tune in for 50 minutes at work, excellent. 
 - You can't do any of the above, watch the video afterwards.
-- 
+ 
 - All kinds of things that help students: 
   - Work on stuff
   - Get help
