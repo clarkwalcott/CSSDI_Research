@@ -6,6 +6,11 @@
 - Laptop sitting in a lecture hall.
 - Multiple instances of Zoom cancel feedback from each other out so audio becomes an echo chamber.
 
+## Problem: Ease of use for "technophobic" teachers. 
+- How do we fix this/improve interest in tech/teaching with tech.
+
+## Differences in Instructor endpoint vs Student endpoint changes/thoughts/design.
+
 ## Want: The ability to connect with other students through on-campus experiences.
 **Want instruction everywhere for everybody (lecture hall, bedroom, kitchen, etc.)**
 - You want to come to class, come to class. 
@@ -64,13 +69,7 @@
 
 - Security issues? How can we secure these wheelable stations to make them semi-permanent.
 
-# Problem: Ease of use for "technophobic" teachers. 
-- How do we fix this/improve interest in tech/teaching with tech.
-
-# Differences in Instructor endpoint vs Student endpoint changes/thoughts/design.
-
-
-# How will I approach this problem?
+## How will I approach this problem?
 - Look at the context and apply own creativity.
 - Data collection? How do you want to connect with that?
 - Capture the student's experience that's at a distance. 
